@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+
+                    <EditText
+                        android:id="@+id/complaint_txt_fld"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:hint="Complaint"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="@color/textColor"
+                        android:textSize="@dimen/default_font_size"
+                        android:backgroundTint="@color/textColor"
+                        android:textColorHint="@color/hintTextColor"
+                        android:singleLine="true" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/doctors_availablity_vw"
+
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:hint="Date"
+                    android:editable="false"
+                    android:textColor="@color/textColor"
+                    android:textColorHint="@color/hintTextColor"
+                    android:id="@+id/datevw"
+                    android:onClick="btncal_OnClick"
+                    style="@style/Widget.AppCompat.Spinner.Underlined"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/searchAvlDoctor"
+                    android:background="@color/btn_color"
+                    android:text="SEARCH AVAILABLE DOCTORS"
+                    android:textColor="@color/white" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:text="No doctors available"
+                    android:textSize="17dp"
+                    android:gravity="center"
+                    android:includeFontPadding="false"
+                    android:id="@+id/nodoctor"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/doctor_list_textvw"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/textColor"
+                    android:textColorHint="@color/hintTextColor"
+                    android:hint="Select Doctor"
+                    style="@style/Widget.AppCompat.Spinner.Underlined"
+                   android:visibility="gone" />
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/searchAvlSlotBtn"
+                    android:background="@color/btn_color"
+                    android:text="SEARCH AVAILABLE SLOT"
+                    android:textColor="@color/white"
+                    android:visibility="gone"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:id="@+id/done_vw"
+                android:layout_marginTop="25dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:text="No doctors available"
+                    android:textSize="17dp"
+                    android:gravity="center"
+                    android:includeFontPadding="false"
+                    android:id="@+id/noslot"
+                    android:visibility="gone"/>
+                <TextView
+                    android:id="@+id/slot_list_txt_vw"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:hint="Slots"
+                    android:textColor="@color/textColor"
+                    android:textColorHint="@color/hintTextColor"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    style="@style/Widget.AppCompat.Spinner.Underlined"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="15dp"
+                    android:background="@color/btn_color"
+                    android:id="@+id/dontBtn"
+                    android:text="DONE"
+                    android:onClick="btnfix"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

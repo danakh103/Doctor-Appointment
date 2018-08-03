@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_91098def6bfc5ff4593a8d37148879817ad35f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.0_986376df7ca23feae8c829936740434b3cc30e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.0_0164b273c43c53e9fda8ebfea0d41f233a21fc34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\acra-4.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="302790b47ae09c227bdf7eedab768f0265e693b7">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.9.0_eb53fc538c08a00f19b77eb94d2ff778a5f8357b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.0_b72da378a5afd38fd3606632a0b210ade1c865fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_7a8e4619ae9632754bcc6b458bfd7b1277e44856\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.0_edf1d07f606f21e3576b0fcc82aa72c82d252ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.0_484edceca59db3996243f1ad42340c716acad92a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_1caa730167243fb19f76de4ed03c12e4d9ae6b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.0_ccb0889bcaf50d994c6ef110084c0f313c1f9b25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.0_573e7ae1e1cd54d848526c01c9509d87ea75cf31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.0_609af1395e3a140f4ad5c16ccb586124c554ab2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.0_9afc8a496633a1545f9748e94dd611d9c9264dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_31a4dad9d261d44f5d400bf5b939053e4128cb60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.0_57850d4e02ffebe095d531ab7203422e8ebcc9dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.0_eb16208fae33d32e1948009f3d9c32af27736c84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\httpclient-4.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.2.3_0aae3b7508d709f5965c65c72442489c3d0577f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-1.3.10_7f7ed5bb4f0e9382c77016600e726ea5ba218f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Employee\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_894211e5bb7b0c9cc0a849ea8dde987d8b4687c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.0_43b3b062658c0fece65f43a655e2f5dee94fdec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.0_6f546026fadcdaefb9ded00efe3cc4bdc6ca8114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.0_9dfc0cc2cb32c556a1f6599ad722d868d0744a6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_f97df13ef6503d5ec307402b953567fdacf68b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_da2c8400bda4c5fcee23ea4560dd02c076af820c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_96fa2a7f4b409db511ad1e7d17ba29db33ff072f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.0_21471c99c489bc9eb6bd27e7197b3016bc3aed27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.0_0d28168550b05b4d45b8bea7338e1748df82c016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.0_e0acc12b4a13221e5e123aaf28671d9b0bdf7302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.0_50c7255a668dc5acfa24fe6a7e631c373f3aa5cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_c8cb84ef6711d81fca09d528dd7bf59320f002fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_a9c944e22f9359d696655bcabfa5bde4934475b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.0_cb184579f9b50feca20140291921b800d63a7218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.0_ddf19b230aed4de0f332bfd691e9ad7e91767956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.0_aa56617fc19856f1436e1b62cf98664916c0ee4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.0_e03c32f87bf149703cfc5864fe02af82a29032b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore_259618e0fa0a8cd5ee8f11d084edb0d82d5723b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_7fe8cc5abf2d7a17ce688c1f74d6d1c6ef668bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.0_b05727f34c3640573305e1014fb63a0ec0e89618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.0_c33abe3a006a33c77acd781dac3c017b0846e82e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.0_e27f512971661e29f92ec8d6057556707ea00e2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.0_55a04252323bc98605e11d8262ac7f3e392af8f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.0_ac9a59f67c6881dfc84af8a60c0ee14d462d8b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0233dfac28910f0d531ec706b0d58aea5361baa">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e9b43f42b534ef87a7eeb5252e01ef596ccab3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.0_c1c7cdaa306f3daa8cbf6bc24437e1d8cdcde76d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.0_994514fbe6aafb999b6bab7e6b597379382a4257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_b9fb0b4923ffc97b020336675878b1d37607295a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e052a32a30acd5705ab2d581fd4274c8ff263cb5">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-core-2.3.12_533e236c2e2814f5e190359f205caba2f3be426e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.0_ad9df5e2d42aabeeeee7a0de32a84ac901f5c9c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.0_792c606674bac6fb13d6b9c16d9b947f47a8e51b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_6708eccd91d3e95067ae2af51f3d82ff055f9aae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\httpmime-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3_0444f104bfcab9a002b746ec004cc408481e07d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.0_0125138e9faa7a4861f024023cd120c82fecc938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_2662bd0f4fbc64bb5a08b560373bee223f7ef4b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_bf8101d9aff06df6f6d82b2b86cf02f98e6c1464\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.0_1e626b8a56fb1165a774fcf463a46d64807f4824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_70e7c1447ea480a4e6f5bec73f561962b621e3f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.0_4ef47bb2fbfb8360228476fe6a76a6329907055a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.0_9b453579a63a45c57bb254d02cd292bb1fd978ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_d405e1a2f829e1d2509dea56cd9f7de71abccddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.0_931491524db622e7b23d21bacc41a3ef7cb657e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.0_04a25d90c785498412037eb3254061e3c142d6f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.0_7dff440f78446b53d66f331acc2e230d766fadfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-2.4-jar-with-dependencies_4ea7f7b4e259d90f79cbbd8706ad0550a2fc81a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_4ecbf0d4f467125b1432a619d288832660ffd213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.0_0db2c560e32600307b6e5b8ee61c17e56c2414b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.0_ccc099931a3810ff044042274eddb881d5ed2cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.0_f86f63622149473dd43f774ca65fdbe1f7b05e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_89c87864656ae58fe4e773acd393d9ea8c640c2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="484b636d404ae9bd962448179d2a148ecf7c0cbc">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0c22f6e905135ebc7374f4a27064d2ff59df8446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.0_217848ca80b7ee1b16a2cd2ee1c4942b854f160d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-beta-1.2.2_deba1ed1a2381887b7239da1a123f87d956ce3f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_d1a99c0c34b69162009e65cec0272c1c1e22c702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\libs\gson-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d8fc01b6cfc30c0e0fff75bd145a72e1f087a2e">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-1.5_6f588c3e605d8a10078e993d2047f27ae3712613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="945351720761133089e10b45ab9a8dce04fd4e3f">
+        <dex dex="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-2.6.3_8d5e04b663be145e239ab967e28d655644a1f7b8\classes.dex" />
+    </item>
+
+</items>

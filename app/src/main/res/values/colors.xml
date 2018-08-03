@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F1EFF2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#D8D8D8</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_color">#27A7FF</color>
+    <color name="customTxtColor1">#000</color>
+    <color name="lineSeperatorColor">#868686</color>
+    <color name="textColor">#2C2C2C</color>
+    <color name="hintTextColor">#6C6C6C</color>
+    <color name="alertColor">#494949</color>
+    <color name="windowHeadingBg">#1C39CE</color>
+
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+</resources>

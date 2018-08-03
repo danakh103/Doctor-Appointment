@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Medi360</string>
+    <string name="welcomr_string">DoctorsApp helps you to \n book Appointment with Doctor</string>
+    <!--Fetch Address-->
+    <string name="no_geocoder_available">No geocoder available</string>
+
+    <string name="fetch_address">Fetch address</string>
+
+    <string name="address_found">Address found</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <!-- TODO(user): replace with your real server client ID -->
+    <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+         from https://console.developers.google.com/ -->
+    <string name="server_client_id">1062140732913-nnecv0pll0ao64l4uva5a9vturk3huk7.apps.googleusercontent.com</string>
+    <string name="loading">Loading…</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062140732913",
+    "project_id": "medi360-1354"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062140732913:android:2b4c34153a0fc9c8",
+        "android_client_info": {
+          "package_name": "com.medi360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062140732913-jkqc7gfjgcp093jucjfrme741g781bdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medi360",
+            "certificate_hash": "0F6C59E97B678EF15FE0A4BD60E0D5403E0A7AB9"
+          }
+        },
+        {
+          "client_id": "1062140732913-nnecv0pll0ao64l4uva5a9vturk3huk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCziSd77lQ499_Ptk8FdUU7JGFIjIilE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
