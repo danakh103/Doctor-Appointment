@@ -13,6 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 * **Android studio**
 * **Android Api 23+**
 * **Google map Api credential**
+* **Paytm Api**
 
 
 ### Installing and playing with Application
