@@ -1,7 +1,7 @@
 
-# Doctor-Patien E-commerce Android Application
+# Health Appointment E-commerce Android Application
 
-Doctor-Patien E-commerce Android Application mobile App is developed using Android studio, Google Map Api, Payment Gateways Apis
+Health Appointment E-commerce mobile App is developed using Android studio, Google Map Api, Payment Gateways Apis
 
 
 ## Getting Started
