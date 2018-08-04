@@ -1,7 +1,7 @@
 
-# Health Appointment E-commerce Android Application
+# Doctor-Appointment E-commerce Android Application
 
-Health Appointment E-commerce mobile App is developed using Android studio, Google Map Api, Payment Gateways Apis
+Doctor-Appointment E-commerce mobile App is developed using Android studio, Google Map Api, Payment Gateways Apis
 
 
 ## Getting Started
@@ -25,9 +25,9 @@ These instructions will get you a copy of the project up and running on your loc
  clone this project in your wroking directory or wherever you want using
 
 ```
-git clone https://github.com/danakh103/Health-Appointment.git
+git clone https://github.com/danakh103/Doctor-Appointment.git
 
-cd .\Health-Appointment
+cd .\Doctor-Appointment
 ```
 
 * **Push your work in GitHub repo**
