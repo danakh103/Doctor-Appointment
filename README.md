@@ -25,9 +25,9 @@ These instructions will get you a copy of the project up and running on your loc
  clone this project in your wroking directory or wherever you want using
 
 ```
-git clone https://github.com/danakh103/Doctor-Patient.git
+git clone https://github.com/danakh103/Health-Appointment.git
 
-cd .\Doctor-Patient
+cd .\Health-Appointment
 ```
 
 * **Push your work in GitHub repo**
